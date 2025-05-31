@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Deep Learning and Full-Stack Web Development projects<br>🌱 I’m currently learning:<br>    📚 Advanced Machine Learning (NLP, Computer Vision)<br>    🧩 System Design & Architecture<br>💬 Ask me about:<br>    🤖 Neural Networks, CNNs, Transformers<br>    🌐 MERN Stack (MongoDB, Express, React, Node.js)<br>    🧠 Model Training & Optimization<br>    🚀 Building scalable web apps<br>🎯 Goals for 2025:<br>    📌 Contribute to open-source DL projects<br>    📌 Build and deploy full-featured web platforms<br>    📌 Publish ML research/code on GitHub 
+
 👨‍💻 All of my projects are available [here](https://github.com/soumyadeepx30?tab=repositories)
 
 
